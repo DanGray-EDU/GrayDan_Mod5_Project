@@ -13,3 +13,24 @@ Allows the user to enter a list of integers, store those integers in a stack 'my
 
 ## Bugs Addessed:
 N/A
+
+# Program Playbook:
+### Compile and Running
+    javac Collection.java
+    java Collection.java
+
+### Example Run
+Input a list of integers pressing the 'return key' after each integer (type 'done' to finish):
+
+    9
+    1
+    8
+    2
+    7
+    3
+    6
+    4
+    5
+    done
+
+Sorted Collection: [1, 2, 3, 4, 5, 6, 7, 8, 9]
