@@ -1,5 +1,5 @@
 # Program: Collection
-
+Version: 1.0.0
 ## Purpose: 
 A modification of the SortedLinkedList program: https://github.com/DanGray-EDU/GrayDan_Mod4_Project
 
