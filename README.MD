@@ -10,6 +10,7 @@ Allows the user to enter a list of integers, store those integers in a stack 'my
     - Removed the use of the linked list data structure and all references.
     - Added the use of the stack data structure
     - Updated the in-line documentation to reflect the changes.
+    Version: 1.0.0
 
 ## Bugs Addessed:
 N/A
